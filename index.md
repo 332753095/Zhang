@@ -9,5 +9,9 @@ Process equipments and control engineering , ZJU
 
 Kiss kiss~
 
+<img width="200" alt="profile" src="https://github.com/332753095/x/blob/master/IMG_20230611_153101(1).jpg?raw=true">
+
+
+
 ## 快捷链接
 [跳转到ZJUers轻首页](https://zjuers.com/)
