@@ -2,7 +2,6 @@
 
 Process equipments and control engineering , ZJU
 
-[跳转到ZJUers轻首页](https://zjuers.com/)
 
 ## Welcome! Ms.Xu 
 
@@ -10,3 +9,5 @@ Process equipments and control engineering , ZJU
 
 Kiss kiss~
 
+## 快捷链接
+[跳转到ZJUers轻首页](https://zjuers.com/)
