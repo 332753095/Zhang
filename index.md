@@ -1,7 +1,6 @@
-## Zhang
+## Zhang's major & school
 
-Process equipments and control engineering , ZJU
-
+ Process equipments and control engineering , ZJU
 
 ## Welcome! Ms.Xu 
 
